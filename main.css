@@ -1,0 +1,18 @@
+body {
+    background: blue;
+    margin: 0;
+    min-width: 50px;
+    min-height: 10;
+    
+}
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a {
+    color: #eee;
+    font-size: 60px;
+    margin: 0 50px;
+}
